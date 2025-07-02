@@ -1,8 +1,8 @@
-# Full Stack MERN Auctioneer App
+# Full Stack MERN Base App
 
 ### About
 
-Full stack MERN (MongoDB, Express.js, React, and Node.js.) base site with authentication using JWT, Firebase, and Google OAuth and all the signin/signup, delete and update functionality for users with the image storage in firebase and the database in mongoDB.You can follow the instructions in the pdf or just clone the git repo and have all the basic functionality ready to go for your next project.
+Full stack MERN (MongoDB, Express.js, React, and Node.js.) base app with authentication using JWT, Firebase, and Google OAuth and all the signin/signup, delete and update functionality for users with the image storage in firebase and the database in mongoDB.You can follow the instructions in the pdf or just clone the git repo and have all the basic functionality ready to go for your next project.
 
 ### To Run
 
